@@ -5,12 +5,76 @@
     <link>https://clinicalbrainlab.github.io/publication/</link>
       <atom:link href="https://clinicalbrainlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://clinicalbrainlab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Do labels matter? The effect of specific and generic labels on university students’ openness towards autistic peers</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_labels/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theta Power Differences as a Function of Level of Familiarity with a Musical Style</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_music-familiarity/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_music-familiarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Closer Look at Cardiac Contraction and the Effect of Cardiac Timing on Cognitive Control</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_cocon/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_cocon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractal Dimensions of EEG Activity is Linked to Distinct Facets of Resting-State Cognition</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_restingstatecomplexity/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_restingstatecomplexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the effects of background noise and music on cognitive test performance in introverts and extraverts: A cross-cultural study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_background-music/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_background-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cerebellar Transcranial Magnetic Stimulation (TMS) Impairs Visual Working Memory</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex difference in tDCS current mediated by changes in cortical anatomy: A study across young, middle and older adults</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_sex-differences-tdcs/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_sex-differences-tdcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focality-Oriented Selection of Current Dose for Transcranial Direct Current Stimulation</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Brain Entropy, Fractal Dimensions and Predictability: A Review of Complexity Measures for EEG in Healthy and Neuropsychiatric Populations</title>
