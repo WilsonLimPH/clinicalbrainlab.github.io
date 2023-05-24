@@ -5,12 +5,37 @@
     <link>https://clinicalbrainlab.github.io/</link>
       <atom:link href="https://clinicalbrainlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Clinical Brain Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>The Clinical Brain Lab</title>
       <link>https://clinicalbrainlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Chinese-English Bilingual Children Needed</title>
+      <link>https://clinicalbrainlab.github.io/post/kid-biliteracy/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/post/kid-biliteracy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;main.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Age-Related Changes in Episodic Processing of Scenes: A Functional Activation and Connectivity Study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_aging_sensors/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_aging_sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Bilingual Future</title>
+      <link>https://clinicalbrainlab.github.io/talk/2023_bilingual_future/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2023_bilingual_future/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Associations between brain structure, HRV, and depression and anxiety in a non-clinical sample</title>
@@ -25,6 +50,14 @@
       <link>https://clinicalbrainlab.github.io/publication/2023_hrv-cognition/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2023_hrv-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Dance to Maintain Cognitive Performance and Cortical Morphology in Older Adults with MCI</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_ohbm_dancing/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_ohbm_dancing/</guid>
       <description></description>
     </item>
     
@@ -602,15 +635,6 @@ Our projects will shed light on the impact of critical factors (e.g., orthograph
 &lt;li&gt;Modulating Reading Networks -&lt;em&gt;funded by NTU-JHU Collaborative Grant&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Cognitive Science of Multilingualism In Children (COSMIC) - &lt;em&gt;funded by National Research Foundation&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chinese-English Bilingual Children Needed</title>
-      <link>https://clinicalbrainlab.github.io/post/kid-biliteracy/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/post/kid-biliteracy/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./Mock_MRI_flyer.jpg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
