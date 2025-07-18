@@ -5,7 +5,7 @@
     <link>https://clinicalbrainlab.github.io/publication/</link>
       <atom:link href="https://clinicalbrainlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,14 +13,19 @@
     </image>
     
     <item>
+      <title>Brain Imaging Studies of Multisensory Integration in Emotion Perception: A Scoping Review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025_multisensory-lit-review/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025_multisensory-lit-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Functional Magnetic Resonance Imaging Investigation of Hot and Cool Executive Functions in Reward and Competition.</title>
       <link>https://clinicalbrainlab.github.io/publication/2025-fmri-reward-competition/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2025-fmri-reward-competition/</guid>
-      <description>&lt;h2 id=&#34;url_video-&#34;&gt;url_slides: &amp;quot;&amp;quot;
-url_source: &amp;quot;&amp;quot;
-url_video: &amp;quot;&amp;quot;&lt;/h2&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -102,6 +107,22 @@ url_video: &amp;quot;&amp;quot;&lt;/h2&gt;
     </item>
     
     <item>
+      <title>Neurochemical Alterations in Bilateral DLPFC after Structure Learning Training in Healthy Adults</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_ohbm_bilateral-dlpfc/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_ohbm_bilateral-dlpfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive flexibility training for impact in real-world settings</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_cognitive-flexibility-training/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_cognitive-flexibility-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Autonomic and respiratory changes in young and old adults with non-clinical depression and anxiety</title>
       <link>https://clinicalbrainlab.github.io/publication/2024_autonomic-dep-anx/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
@@ -178,6 +199,22 @@ url_video: &amp;quot;&amp;quot;&lt;/h2&gt;
       <link>https://clinicalbrainlab.github.io/publication/2023_science-of-learning_review/</link>
       <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2023_science-of-learning_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential cognitive and neural benefits of a computerised cognitive training programme based on Structure Learning in healthy adults: study protocol for a randomised controlled trial</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_computerised_rcts/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_computerised_rcts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study protocol: How does cognitive flexibility relate to other executive functions and learning in healthy young adults?</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_cognitive_flexibility_ef/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_cognitive_flexibility_ef/</guid>
       <description></description>
     </item>
     
@@ -290,6 +327,14 @@ url_video: &amp;quot;&amp;quot;&lt;/h2&gt;
       <link>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Remote Guided Method for Supervised Web-Based Cognitive Testing to Ensure High-Quality Data: Development and Usability Study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_webbased-cognitive-testing/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_webbased-cognitive-testing/</guid>
       <description></description>
     </item>
     
